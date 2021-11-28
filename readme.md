@@ -21,7 +21,7 @@
 
 ## Overview
 
-This project focuses on analyzing and finding correlation between the three important metrics by 195 countries,i.e., birth rate, internet users and income group.
+This project focuses on analyzing and finding correlations between the three important metrics by 195 countries,i.e., birth rate, internet users and income group.
 
 The repository directory structure is as follows:
 
